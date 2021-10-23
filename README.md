@@ -10,7 +10,8 @@ Basic Quiz app has fixed questions and winner count. Great project for beginner.
 Latest version of android studio and basic googling skills will get you going.
 
 ## How to contribute?
-All contributions are welcomed, Properly describe changes made and attach supporting ScreenShots in the PR. For major changes first open an issue.
+All contributions are welcomed, Properly describe changes made and attach supporting ScreenShots in the PR. For major changes first open an issue.<br>
+You can find the latest version of this app <a href="https://github.com/Miihir79/QuizApp">here</a>
 
 ## Author
 <a href="https://github.com/Miihir79">***Mihir Shah***</a>
